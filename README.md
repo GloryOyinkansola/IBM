@@ -1,4 +1,4 @@
- #Projects from the IBM Data science course
+ # Projects from the IBM Data science course
  
  Peer Graded Assignment:
  Chicago crime data, Chicago Public Schools data, and Socioeconomic indicators in Chicago was loaded into a Db2 Database. SQL was then used to execute the query
